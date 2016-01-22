@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="orthogonal" width="38" height="38" tilewidth="64" tileheight="64">
+ <tileset name="Main" firstgid="1" tilewidth="64" tileheight="64">
+  <image source="dungeon_tileset_64.png"/>
+ </tileset>
+ <tileset name="Objects" firstgid="89" tilewidth="64" tileheight="64">
+  <image source="objects_tilset_64.png"/>
+ </tileset>
+ <layer name="Base" width="38" height="38">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO1XSW7DMAyUAdkvyMXd0DRt4S90QZsfdLnE/39JLMBEWWZEUbLgkw8DOIREDqkRxZycc6cNG1bC14Q3gU9gy4Xm49vA63XCKNADWy40H+9GXg1DN/tsALqIHSHmoyng1QmffkaKA+IreYU1bQavjwlXE4Z5X8DDbCPcsu/BwNNXqtco/GhaIc4pfuTvUeQYcMw4Ry0/xLlPnHPvcI65upd18CAG19KNcrahRnuFcw4vWQfuJ3B+ZnaKS3sOonZkj2mvpE8gXjyOB3FHEZfvvXfL9KX1HdkHLL2D+6vRV/tIfPpu3aXen9xfb6LfWp4lvGTvkv2LdC7vReyeIF2U8LK8dfwuBuyV3O4q8UL3J/DaMSDN0PoW5CQ1kfMOSfCehHh1IB4C0sXRWK/Y2UnfpDN5bhpqzTlIu0hncj2/g6l5qBYvD2za+hRKeLUgDufVgjhyrlmzXqmZKjVfcL5LeXmRe8k5ct0R51JeYf8B2KWNz3zXDr8Re1ePF91B6W90//uW9f9QDX3lzAqozhYtlvT7wV3q1zJTyTcC9fkl/R7pCmk89UZoZ1w6T1h47QCsvbVUX53Te+MavH4nvKyMHwOvDRtq4gyMFOcEkBYAAA==
+  </data>
+ </layer>
+ <layer name="Decorations " width="38" height="38">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO2XOw7CMAyGc046IXEJWOlGmRiYULlD1rIiJDZORCM5UmWSJnbiUEE+6ZfyUOw8nNZRqlJZJg9ieyleke2D4BwGIfuSc658chjVKd6+a0eb1N1Yg7THbwjfnQkRWs8ddANxbVHXFFqP8XUCYb9boq2cGF8XEPa7LzgPCsdAfz/qCuqlJxOBxDc0971uQM9EOzGxuyPYayaSpp3p6yblxlOOhbL+Etj4bFHdgmONE3tze8vFxJpGdS6cf1jlu/xTbopzBF+boeR7yJUj+PIGyv1MPVtXjhDKGySQOIscNu1ZrIjjzhE2DfYdw2WTMHbJlMhjKpVf4Q1ikck1kBYAAA==
+  </data>
+ </layer>
+ <layer name="Entity" width="38" height="38">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3UMQqAMAyF4d5bVz2KsxdwdSp4JSt0COKg8Ukt/T94awhJSAgArCnnL2LOnPPWKqhxiCa2tqq+5anZpfTqRgSGlLF0Ezd55r7Iu2iXZ5bMH1e++MuAyvk+a7pX1c/ld9enpjvFM+y2PVvpBoBG7eV/BIyQFgAA
+  </data>
+ </layer>
+</map>
