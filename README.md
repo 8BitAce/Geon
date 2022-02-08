@@ -1,2 +1,2 @@
 # Geon
-A simple tile-based rouge-like.
+A simple tile-based rogue-like.
